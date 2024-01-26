@@ -1,0 +1,1713 @@
+{
+    "metadata": {
+        "id": "urn:bbc:ares::index:news/england/mobile/domestic",
+        "locators": {
+            "assetUri": "/news/england",
+            "curieCpsUrn": "urn:bbc:cps:curie:asset:b5c53243-711f-e059-e040-850a02846523/mobile/domestic",
+            "assetId": "10059370",
+            "cpsUrn": "urn:bbc:content:assetUri:news/england",
+            "curie": "http://www.bbc.co.uk/asset/b5c53243-711f-e059-e040-850a02846523/mobile/domestic"
+        },
+        "type": "IDX",
+        "createdBy": "news",
+        "language": "en-gb",
+        "lastUpdated": 1685102919314,
+        "firstPublished": 1278346039000,
+        "lastPublished": 1685102913000,
+        "timestamp": 1685101770000,
+        "options": {
+            "allowAdvertising": true
+        },
+        "analyticsLabels": {
+            "cps_asset_type": "idx",
+            "counterName": "news.england.page",
+            "cps_asset_id": "10059370",
+            "contentId": "urn:bbc:cps:curie:asset:b5c53243-711f-e059-e040-850a02846523"
+        },
+        "tags": {},
+        "version": "v1.4.24",
+        "blockTypes": [
+            "responsive-top-stories",
+            "responsive-cluster"
+        ],
+        "title": "England",
+        "summary": "Get the latest BBC England news: breaking news, in-depth features, analysis and debate plus audio and video coverage from the English regions.",
+        "atiAnalytics": {
+            "producerName": "NEWS_ENGLISH_REGIONS",
+            "producerId": "108"
+        }
+    },
+    "content": {
+        "groups": [
+            {
+                "type": "responsive-top-stories",
+                "title": "Top Stories",
+                "maxRelatedLinks": 3,
+                "items": [
+                    {
+                        "headlines": {
+                            "headline": "Closing baby unit considered over safety concerns",
+                            "overtyped": "Baby unit closure was considered over safety concerns"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-kent-65709193",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:ff5973a3-7fd1-4350-b871-082b724bf4b0",
+                            "assetId": "65709193",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-kent-65709193",
+                            "curie": "http://www.bbc.co.uk/asset/ff5973a3-7fd1-4350-b871-082b724bf4b0"
+                        },
+                        "summary": "A watchdog instead called for \"immediate improvements\" of the William Harvey hospital in Kent.",
+                        "timestamp": 1685088964000,
+                        "language": "en-gb",
+                        "byline": {
+                            "name": "By Michael Buchanan & Christian Fuller",
+                            "title": "Social affairs correspondent, BBC News",
+                            "persons": [
+                                {
+                                    "name": "Michael Buchanan",
+                                    "function": "Social affairs correspondent, BBC News"
+                                },
+                                {
+                                    "name": "Christian Fuller",
+                                    "function": "BBC News"
+                                }
+                            ]
+                        },
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129854284",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/BC75/production/_129854284_ezgif-1-4b06847e00.jpg",
+                            "path": "/cpsprodpb/BC75/production/_129854284_ezgif-1-4b06847e00.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Baby",
+                            "caption": "A review in October found that at least 45 babies might have survived with better care at the trust",
+                            "copyrightHolder": "Getty Images",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "prominence": "standard",
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Kent",
+                            "uri": "/news/england/kent",
+                            "type": "simple"
+                        },
+                        "relatedItems": [
+                            {
+                                "headlines": {
+                                    "headline": "'No-one joined the dots' - NHS scandal exposed by grandad"
+                                },
+                                "locators": {
+                                    "assetUri": "/news/uk-63298087",
+                                    "cpsUrn": "urn:bbc:content:assetUri:/news/uk-63298087"
+                                },
+                                "summary": "Derek Richford's determination led to an inquiry into maternity care at East Kent hospitals.",
+                                "timestamp": 1666177736000,
+                                "language": "en-gb",
+                                "cpsType": "STY",
+                                "id": "urn:bbc:ares::asset:news/uk-63298087",
+                                "type": "cps"
+                            },
+                            {
+                                "headlines": {
+                                    "headline": "Years of failures over baby deaths led to review"
+                                },
+                                "locators": {
+                                    "assetUri": "/news/uk-england-kent-62876617",
+                                    "cpsUrn": "urn:bbc:content:assetUri:/news/uk-england-kent-62876617"
+                                },
+                                "summary": "Calls for systematic change at East Kent Hospitals follow a series of preventable baby deaths.",
+                                "timestamp": 1666156065000,
+                                "language": "en-gb",
+                                "cpsType": "STY",
+                                "id": "urn:bbc:ares::asset:news/uk-england-kent-62876617",
+                                "type": "cps"
+                            },
+                            {
+                                "headlines": {
+                                    "headline": "Hospital hid surgeon's error for seven years"
+                                },
+                                "locators": {
+                                    "assetUri": "/news/uk-63920920",
+                                    "cpsUrn": "urn:bbc:content:assetUri:/news/uk-63920920"
+                                },
+                                "summary": "The trust has apologised to a woman for failing to admit a surgeon was responsible for a massive haemorrhage.",
+                                "timestamp": 1670607090000,
+                                "language": "en-gb",
+                                "cpsType": "STY",
+                                "id": "urn:bbc:ares::asset:news/uk-63920920",
+                                "type": "cps"
+                            }
+                        ],
+                        "id": "urn:bbc:ares::asset:news/uk-england-kent-65709193",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Police admit losing evidence in teen suicide case"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-london-65720167",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:660c7fa4-82fc-4337-b562-8dd5f5172492",
+                            "assetId": "65720167",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-london-65720167",
+                            "curie": "http://www.bbc.co.uk/asset/660c7fa4-82fc-4337-b562-8dd5f5172492"
+                        },
+                        "summary": "Mia Janin's father accuses the police of \"not caring about the family\" after losing her phone.",
+                        "timestamp": 1685101298000,
+                        "language": "en-gb",
+                        "byline": {
+                            "name": "By Guy Lynn & Harry Low",
+                            "title": "BBC News",
+                            "persons": [
+                                {
+                                    "name": "Guy Lynn",
+                                    "function": "BBC News"
+                                },
+                                {
+                                    "name": "Harry Low",
+                                    "function": "BBC News",
+                                    "twitterName": "harrylow49"
+                                }
+                            ]
+                        },
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "125788197",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/13554/production/_125788197_microsoftteams-image-2.png",
+                            "path": "/cpsprodpb/13554/production/_125788197_microsoftteams-image-2.png",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Mia Janin",
+                            "caption": "Mia Janin, 14, was bullied in and outside her school, an inquest has been told",
+                            "copyrightHolder": "Family photo",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "prominence": "standard",
+                        "section": {
+                            "subType": "IDX",
+                            "name": "London",
+                            "uri": "/news/england/london",
+                            "type": "simple"
+                        },
+                        "relatedItems": [
+                            {
+                                "headlines": {
+                                    "headline": "Girl took her life after being bullied, hearing told"
+                                },
+                                "locators": {
+                                    "assetUri": "/news/uk-england-london-65124782",
+                                    "cpsUrn": "urn:bbc:content:assetUri:/news/uk-england-london-65124782"
+                                },
+                                "summary": "Mia Janin was found dead at her family home in Harrow on 12 March 2021.",
+                                "timestamp": 1680193972000,
+                                "language": "en-gb",
+                                "cpsType": "STY",
+                                "id": "urn:bbc:ares::asset:news/uk-england-london-65124782",
+                                "type": "cps"
+                            },
+                            {
+                                "headlines": {
+                                    "headline": "Bereaved dad wants access to child's social media"
+                                },
+                                "locators": {
+                                    "assetUri": "/news/uk-england-london-62049774",
+                                    "cpsUrn": "urn:bbc:content:assetUri:/news/uk-england-london-62049774"
+                                },
+                                "summary": "Mariano Janin believes daughter Mia saw bullying messages the night before she killed herself.",
+                                "timestamp": 1657085242000,
+                                "language": "en-gb",
+                                "cpsType": "STY",
+                                "id": "urn:bbc:ares::asset:news/uk-england-london-62049774",
+                                "type": "cps"
+                            }
+                        ],
+                        "id": "urn:bbc:ares::asset:news/uk-england-london-65720167",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Boy hit by police vehicle in critical condition"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-65717515",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:2fb0b20e-d3a0-448a-87e5-96eb90f9d598",
+                            "assetId": "65717515",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-65717515",
+                            "curie": "http://www.bbc.co.uk/asset/2fb0b20e-d3a0-448a-87e5-96eb90f9d598"
+                        },
+                        "summary": "Police say the 11-year-old child was crossing a road in Lancaster when he was hit.",
+                        "timestamp": 1685080212000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129873245",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/D3DD/production/_129873245_tl-nc.jpg",
+                            "path": "/cpsprodpb/D3DD/production/_129873245_tl-nc.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "traffic light on the ground",
+                            "copyrightHolder": "BBC",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "prominence": "standard",
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Lancashire",
+                            "uri": "/news/england/lancashire",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-65717515",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Ovo customers hit with 'horror' bills up to \u00a3116k"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-gloucestershire-65544654",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:eed296ab-2fdf-4c9c-868f-4d5141da73ad",
+                            "assetId": "65544654",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-gloucestershire-65544654",
+                            "curie": "http://www.bbc.co.uk/asset/eed296ab-2fdf-4c9c-868f-4d5141da73ad"
+                        },
+                        "summary": "A number of customers claim their usage has been miscalculated by the energy giant.",
+                        "timestamp": 1685093484000,
+                        "language": "en-gb",
+                        "byline": {
+                            "name": "By Nathan Heath",
+                            "title": "BBC News",
+                            "persons": [
+                                {
+                                    "name": "Nathan Heath",
+                                    "function": "BBC News"
+                                }
+                            ]
+                        },
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129873740",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/1281/production/_129873740_mediaitem129873737.png",
+                            "path": "/cpsprodpb/1281/production/_129873740_mediaitem129873737.png",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Ovo energy and a person using a phone",
+                            "caption": "One woman was charged more than \u00a3116,000",
+                            "copyrightHolder": "Getty Images",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "prominence": "standard",
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Bristol",
+                            "uri": "/news/england/bristol",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-gloucestershire-65544654",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Youngsters pose for photos on rock fall cliff edge",
+                            "overtyped": "People posed for photos on rock fall cliff edge"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-dorset-65718235",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:e386f400-cb26-4fd0-b0e1-d00e6d9bb027",
+                            "assetId": "65718235",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-dorset-65718235",
+                            "curie": "http://www.bbc.co.uk/asset/e386f400-cb26-4fd0-b0e1-d00e6d9bb027"
+                        },
+                        "summary": "The large landslide happened near West Bay, Bridport on Sunday evening.",
+                        "timestamp": 1685096096000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129874727",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/11C2B/production/_129874727_mediaitem129874490.jpg",
+                            "path": "/cpsprodpb/11C2B/production/_129874727_mediaitem129874490.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "East Beach, West Bay, near Bridport",
+                            "caption": "The fall at East Beach, West Bay, near Bridport, happened on Sunday evening",
+                            "copyrightHolder": "West Bay Photography",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "prominence": "standard",
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Dorset",
+                            "uri": "/news/england/dorset",
+                            "type": "simple"
+                        },
+                        "relatedItems": [
+                            {
+                                "headlines": {
+                                    "headline": "Jurassic Coast beach cordoned off after rock fall"
+                                },
+                                "locators": {
+                                    "assetUri": "/news/uk-england-dorset-65668603",
+                                    "cpsUrn": "urn:bbc:content:assetUri:/news/uk-england-dorset-65668603"
+                                },
+                                "summary": "The beach and the coast path between West Bay and Freshwater in Bridport have been closed.",
+                                "timestamp": 1684742266000,
+                                "language": "en-gb",
+                                "cpsType": "STY",
+                                "id": "urn:bbc:ares::asset:news/uk-england-dorset-65668603",
+                                "type": "cps"
+                            }
+                        ],
+                        "id": "urn:bbc:ares::asset:news/uk-england-dorset-65718235",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Palm trees removed to stop public sex and drug use"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-devon-65720397",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:83f66fc1-a9ae-46a7-ad62-f4f501caf9c6",
+                            "assetId": "65720397",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-devon-65720397",
+                            "curie": "http://www.bbc.co.uk/asset/83f66fc1-a9ae-46a7-ad62-f4f501caf9c6"
+                        },
+                        "summary": "The council said its officers had been having to regularly clean up sex and drug related items.",
+                        "timestamp": 1685095982000,
+                        "language": "en-gb",
+                        "byline": {
+                            "name": "By Alex Green",
+                            "title": "BBC News",
+                            "persons": [
+                                {
+                                    "name": "Alex Green",
+                                    "function": "BBC News"
+                                }
+                            ]
+                        },
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129875798",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/15E9D/production/_129875798_trees1.jpg",
+                            "path": "/cpsprodpb/15E9D/production/_129875798_trees1.jpg",
+                            "height": 576,
+                            "width": 1024,
+                            "altText": "Plymouth Hoe",
+                            "caption": "Plymouth City Council chopped down the \"cabbage palms\" on the Hoe at the end of April",
+                            "copyrightHolder": "Ryan Aldred",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "prominence": "standard",
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Devon",
+                            "uri": "/news/england/devon",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-devon-65720397",
+                        "type": "cps"
+                    },
+                    {
+                        "name": "'I've learned to love the girl I was'",
+                        "indexImage": {
+                            "id": "129862456",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/FF92/production/_129862456_kat.jpg",
+                            "path": "/cpsprodpb/FF92/production/_129862456_kat.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Dr Katriona O'Sullivan",
+                            "caption": "Dr Katriona O'Sullivan dedicates her book, \"To me, aged seven. I've got you.\"",
+                            "copyrightHolder": "BBC",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "uri": "https://www.bbc.co.uk/news/uk-england-coventry-warwickshire-65682390",
+                        "aresUrl": "https://ares-api.api.bbci.co.uk/api/asset/news/uk-england-coventry-warwickshire-65682390",
+                        "contentType": "Feature",
+                        "assetTypeCode": "PRO",
+                        "timestamp": 1685084905000,
+                        "type": "link"
+                    }
+                ],
+                "semanticGroupName": "Top Stories"
+            },
+            {
+                "type": "responsive-cluster",
+                "title": "Other top stories",
+                "items": [
+                    {
+                        "headlines": {
+                            "headline": "New trial date for pair accused of Brianna murder"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-manchester-65722453",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:73fa4bf8-2e9d-49f7-8555-87f66c463430",
+                            "assetId": "65722453",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-manchester-65722453",
+                            "curie": "http://www.bbc.co.uk/asset/73fa4bf8-2e9d-49f7-8555-87f66c463430"
+                        },
+                        "summary": "The trial of a boy and a girl charged with the murder of Brianna Ghey is put back until November.",
+                        "timestamp": 1685100764000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "128613336",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/F763/production/_128613336_46727b92-396c-4be1-8885-d4a60a11a7ef.jpg",
+                            "path": "/cpsprodpb/F763/production/_128613336_46727b92-396c-4be1-8885-d4a60a11a7ef.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Brianna Ghey",
+                            "caption": "Brianna Ghey was found injured in Linear Park in Culcheth and died at the scene",
+                            "copyrightHolder": "Family handout",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Manchester",
+                            "uri": "/news/england/manchester",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-manchester-65722453",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Murder inquiry after boy, 17, stabbed in street"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-south-yorkshire-65718657",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:685c6a75-22a9-45ff-b4f9-477336144ec0",
+                            "assetId": "65718657",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-south-yorkshire-65718657",
+                            "curie": "http://www.bbc.co.uk/asset/685c6a75-22a9-45ff-b4f9-477336144ec0"
+                        },
+                        "summary": "Two men have been arrested on suspicion of murder following the attack in Crookes, police say.",
+                        "timestamp": 1685088453000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129874214",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/A11F/production/_129874214_crookes-1.jpg",
+                            "path": "/cpsprodpb/A11F/production/_129874214_crookes-1.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Scene of stabbing in Crookes",
+                            "copyrightHolder": "Oli Constable/BBC",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Sheffield & South Yorkshire",
+                            "uri": "/news/england/south_yorkshire",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-south-yorkshire-65718657",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Gambling addiction diagnosis got Toney reduced ban"
+                        },
+                        "locators": {
+                            "assetUri": "/sport/football/65721139",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:351a1db6-095c-430e-a161-783a6c9403a6",
+                            "assetId": "65721139",
+                            "cpsUrn": "urn:bbc:content:assetUri:sport/football/65721139",
+                            "curie": "http://www.bbc.co.uk/asset/351a1db6-095c-430e-a161-783a6c9403a6"
+                        },
+                        "summary": "Brentford striker Ivan Toney received a reduced ban from football because of a diagnosed gambling addiction.",
+                        "timestamp": 1685101270000,
+                        "language": "en-gb",
+                        "byline": {
+                            "name": "By Katie Falkingham",
+                            "title": "BBC Sport",
+                            "persons": [
+                                {
+                                    "name": "Katie Falkingham",
+                                    "function": "BBC Sport"
+                                }
+                            ]
+                        },
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-sport/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129874131",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/335B/production/_129874131_gettyimages-1486352963.jpg",
+                            "path": "/cpsprodpb/335B/production/_129874131_gettyimages-1486352963.jpg",
+                            "height": 1152,
+                            "width": 2048,
+                            "altText": "Ivan Toney",
+                            "copyrightHolder": "Getty Images",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Football",
+                            "uri": "/sport/football",
+                            "type": "simple"
+                        },
+                        "site": {
+                            "subType": "site",
+                            "name": "BBC Sport",
+                            "uri": "/sport",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:sport/football/65721139",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Heroin worth \u00a338.8m found in pomegranate juice"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-birmingham-65722113",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:e5e82622-abb5-44f5-9546-9b892b4278b5",
+                            "assetId": "65722113",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-birmingham-65722113",
+                            "curie": "http://www.bbc.co.uk/asset/e5e82622-abb5-44f5-9546-9b892b4278b5"
+                        },
+                        "summary": "The National Crime Agency says the purple juice turns red if containing the drug.",
+                        "timestamp": 1685101260000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129877365",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/DC39/production/_129877365_heroininjuice.jpg",
+                            "path": "/cpsprodpb/DC39/production/_129877365_heroininjuice.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Bottle of pomegranate juice",
+                            "caption": "The juice turned red when it contained heroin",
+                            "copyrightHolder": "NCA",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Birmingham & Black Country",
+                            "uri": "/news/england/birmingham_and_black_country",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-birmingham-65722113",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Watch the moment longest ship visits Portsmouth"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-hampshire-65721043",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:7414fec0-c2de-4fa7-844b-567ca14fdfd6",
+                            "assetId": "65721043",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-hampshire-65721043",
+                            "curie": "http://www.bbc.co.uk/asset/7414fec0-c2de-4fa7-844b-567ca14fdfd6"
+                        },
+                        "summary": "A sunrise drone video captured the moment Mein Schiff 3 arrived in Portsmouth Harbour carrying 2,000 tourists.",
+                        "timestamp": 1685097882000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "MAP",
+                        "media": {
+                            "id": "p0fqlgkz",
+                            "subType": "clip",
+                            "format": "video",
+                            "title": "Watch the moment longest ship visits Portsmouth",
+                            "synopses": {
+                                "short": "Drone captures moment longest ship to visit Portsmouth arrives",
+                                "long": "A drone has captured a stunning video of the moment the largest ship to ever enter Portsmouth arrived in the harbour at sunrise.\nMein Schiff 3, which has more than 2,000 German passengers onboard, is 965ft (294m) long - beating the record set by Virgin's 909ft-long (277m) Valiant Lady.\nThe \u00a3291m (\u20ac360m) TUI vessel, named after the German for \"my ship\", arrived from Liverpool at about 05:30 BST.\nIt has been operational since 2014 and boasts 15 bars and nine restaurants. It has a 1,000-strong crew.\nLocal photographer Marcin Jedrysiak was among those who got up early to watch the ship arrive. \n \nFollow BBC South on Facebook, Twitter, or Instagram. Send your story ideas to south.newsonline@bbc.co.uk.",
+                                "medium": "A sunrise drone video captured the moment Mein Schiff 3 arrived in Portsmouth Harbour carrying 2,000 tourists."
+                            },
+                            "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p0fqlkpr.jpg",
+                            "embedding": true,
+                            "advertising": true,
+                            "caption": "The ship is carrying 2,000 German passengers",
+                            "versions": [
+                                {
+                                    "versionId": "p0fqlgl3",
+                                    "types": [
+                                        "Original"
+                                    ],
+                                    "duration": 35,
+                                    "durationISO8601": "PT35S",
+                                    "warnings": {},
+                                    "availableTerritories": {
+                                        "uk": true,
+                                        "nonUk": true
+                                    },
+                                    "availableFrom": 1685096833000
+                                }
+                            ],
+                            "smpKind": "programme",
+                            "type": "media"
+                        },
+                        "indexImage": {
+                            "id": "129874897",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/137E7/production/_129874897_p0fqlgpb.jpg",
+                            "path": "/cpsprodpb/137E7/production/_129874897_p0fqlgpb.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Mein Schiff 3 arriving in Portsmouth",
+                            "copyrightHolder": "Marcin Jedrysiak",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Hampshire & Isle of Wight",
+                            "uri": "/news/england/hampshire",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-hampshire-65721043",
+                        "type": "cps"
+                    }
+                ],
+                "semanticGroupName": "Spare 1"
+            },
+            {
+                "type": "responsive-cluster",
+                "title": "Spare 2 (Features)",
+                "items": [
+                    {
+                        "name": "99 problems and a Flake is one",
+                        "indexImage": {
+                            "id": "129758885",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/E605/production/_129758885_mediaitem129758884.jpg",
+                            "path": "/cpsprodpb/E605/production/_129758885_mediaitem129758884.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Ice cream sellers are complaining about the quality of Cadbury Flake",
+                            "caption": "Ice cream sellers are complaining about the quality of Cadbury Flake",
+                            "copyrightHolder": " Adrian Dennis/Contributor (via Getty Images)",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "uri": "https://www.bbc.co.uk/news/uk-england-humber-65604580",
+                        "aresUrl": "https://ares-api.api.bbci.co.uk/api/asset/news/uk-england-humber-65604580",
+                        "contentType": "Feature",
+                        "assetTypeCode": "PRO",
+                        "timestamp": 1685101244000,
+                        "type": "link"
+                    },
+                    {
+                        "name": "Saving Banksy's art from 'grime and dog wee'",
+                        "indexImage": {
+                            "id": "129873258",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/14CF5/production/_129873258_screenshot2023-05-26082110.jpg",
+                            "path": "/cpsprodpb/14CF5/production/_129873258_screenshot2023-05-26082110.jpg",
+                            "height": 741,
+                            "width": 1317,
+                            "altText": "Restoration work on Banksy mural",
+                            "copyrightHolder": "FARCO",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "uri": "https://www.bbc.co.uk/news/uk-england-cumbria-65695379",
+                        "aresUrl": "https://ares-api.api.bbci.co.uk/api/asset/news/uk-england-cumbria-65695379",
+                        "contentType": "Feature",
+                        "assetTypeCode": "PRO",
+                        "timestamp": 1685079857000,
+                        "type": "link"
+                    },
+                    {
+                        "name": "'Whites of their eyes' venue reopens after eight-year refit",
+                        "indexImage": {
+                            "id": "129804134",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/A884/production/_129804134_knightgetty.jpg",
+                            "path": "/cpsprodpb/A884/production/_129804134_knightgetty.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Beverley Knight during Beverly Knight in Concert at Wolverhampton's Civic Hall - April 7, 2005",
+                            "caption": "Beverley Knight, from Wolverhampton, was among the local stars to headline at the Civic over the years",
+                            "copyrightHolder": "Getty Images",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "uri": "https://www.bbc.co.uk/news/uk-england-birmingham-65625435",
+                        "aresUrl": "https://ares-api.api.bbci.co.uk/api/asset/news/uk-england-birmingham-65625435",
+                        "contentType": "Feature",
+                        "assetTypeCode": "PRO",
+                        "timestamp": 1684992764000,
+                        "type": "link"
+                    },
+                    {
+                        "name": "How bingo is bouncing back to a full house",
+                        "summary": "",
+                        "indexImage": {
+                            "id": "129795542",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/5FEF/production/_129795542_mediaitem129795541.jpg",
+                            "path": "/cpsprodpb/5FEF/production/_129795542_mediaitem129795541.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Becki Tate and six friends around a table playing bingo on tablet devices",
+                            "caption": "Becki Tate, pictured far left, with friends use tablet devices to play bingo",
+                            "copyrightHolder": "BBC",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "uri": "https://www.bbc.co.uk/news/uk-england-humber-65615206",
+                        "aresUrl": "https://ares-api.api.bbci.co.uk/api/asset/news/uk-england-humber-65615206",
+                        "contentType": "Feature",
+                        "assetTypeCode": "PRO",
+                        "timestamp": 1684906607000,
+                        "type": "link"
+                    },
+                    {
+                        "name": "England's Big Picture: Images of the nation",
+                        "summary": "Showcasing the best images sent to us from around England.",
+                        "indexImage": {
+                            "id": "129873860",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/1AB5/production/_129873860_uploaderannamax.jpg",
+                            "path": "/cpsprodpb/1AB5/production/_129873860_uploaderannamax.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Clouds reflected in still water",
+                            "caption": "Anna Max took this photograph at Ham Wall Nature Reserve in Somerset",
+                            "copyrightHolder": "Anna Max",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "uri": "https://www.bbc.co.uk/news/uk-england-65666664",
+                        "aresUrl": "https://ares-api.api.bbci.co.uk/api/asset/news/uk-england-65666664",
+                        "contentType": "Feature",
+                        "assetTypeCode": "PRO",
+                        "timestamp": 1684732654000,
+                        "type": "link"
+                    }
+                ],
+                "strapline": {
+                    "name": "Features & Analysis",
+                    "type": "IDX",
+                    "assetUri": "/news/england",
+                    "assetId": "10059370"
+                },
+                "semanticGroupName": "Spare 2"
+            },
+            {
+                "type": "responsive-cluster",
+                "title": "Watch/Listen",
+                "items": [
+                    {
+                        "headlines": {
+                            "headline": "Top deck of bus wrecked in suspected arson attack"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-birmingham-65715990",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:4a5b9eae-cebe-4342-a351-2bc7381d1058",
+                            "assetId": "65715990",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-birmingham-65715990",
+                            "curie": "http://www.bbc.co.uk/asset/4a5b9eae-cebe-4342-a351-2bc7381d1058"
+                        },
+                        "summary": "Passengers have to be quickly evacuated from the double decker in Birmingham.",
+                        "timestamp": 1685035449000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "MAP",
+                        "media": {
+                            "id": "p0fqfpp6",
+                            "subType": "clip",
+                            "format": "video",
+                            "title": "Top deck of bus wrecked in suspected arson attack",
+                            "synopses": {
+                                "short": "Top deck of Birmingham bus destroyed in suspected arson attack",
+                                "long": "The top deck of a bus has been destroyed in a suspected arson attack in Birmingham.\nFirefighters were called to Soho Road in Handsworth at 19:20 BST on Wednesday.\nBus operator National Express West Midlands said its 74 service was \"swiftly evacuated\" of passengers and nobody was hurt.",
+                                "medium": "Passengers have to be quickly evacuated from the double decker in Birmingham."
+                            },
+                            "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p0fqgh6d.jpg",
+                            "embedding": true,
+                            "advertising": true,
+                            "caption": "Passengers had to be quickly evacuated from the double decker in Birmingham",
+                            "versions": [
+                                {
+                                    "versionId": "p0fqfppg",
+                                    "types": [
+                                        "Original"
+                                    ],
+                                    "duration": 20,
+                                    "durationISO8601": "PT20S",
+                                    "warnings": {},
+                                    "availableTerritories": {
+                                        "uk": true,
+                                        "nonUk": true
+                                    },
+                                    "availableFrom": 1685034901000
+                                }
+                            ],
+                            "imageCopyright": "Mohammed Hussain",
+                            "smpKind": "programme",
+                            "type": "media"
+                        },
+                        "indexImage": {
+                            "id": "129868427",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/11B26/production/_129868427_p0fqgdkb.jpg",
+                            "path": "/cpsprodpb/11B26/production/_129868427_p0fqgdkb.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "A burning bus",
+                            "copyrightHolder": "Mohammed Hussain",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Birmingham & Black Country",
+                            "uri": "/news/england/birmingham_and_black_country",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-birmingham-65715990",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "'Changing the way we coach so sport is more fun'"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-london-65700678",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:4d79107e-61a2-420d-b881-a9d7448893a4",
+                            "assetId": "65700678",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-london-65700678",
+                            "curie": "http://www.bbc.co.uk/asset/4d79107e-61a2-420d-b881-a9d7448893a4"
+                        },
+                        "summary": "A campaign to transform the way children are coached to keep them in sport starts at a BMX club.",
+                        "timestamp": 1684997830000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "MAP",
+                        "media": {
+                            "id": "p0fq4q2c",
+                            "subType": "clip",
+                            "format": "video",
+                            "title": "'Changing the way we coach so sport is more fun'",
+                            "synopses": {
+                                "short": "Peckham BMX: 'Changing the way we coach so kids have more fun'",
+                                "long": "Getting children to simply enjoy sport is behind an idea which, it is hoped, could lead to more Olympic medals for Team GB in the future. \nThe campaign called Play Their Way, launched by Sport England, aims to champion a playful and fun approach to becoming more physically active.\nBBC London visited Peckham BMX club to see how it's going about it.",
+                                "medium": "A campaign to transform the way children are coached to keep them in sport starts at a BMX club."
+                            },
+                            "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p0fq5rqy.png",
+                            "embedding": true,
+                            "advertising": true,
+                            "caption": "Peckham BMX: 'Changing the way we coach so kids have more fun'",
+                            "versions": [
+                                {
+                                    "versionId": "p0fq5rhx",
+                                    "types": [
+                                        "Editorial"
+                                    ],
+                                    "duration": 72,
+                                    "durationISO8601": "PT1M12S",
+                                    "warnings": {},
+                                    "availableTerritories": {
+                                        "uk": true,
+                                        "nonUk": true
+                                    },
+                                    "availableFrom": 1684939931000
+                                }
+                            ],
+                            "imageCopyright": "BBC",
+                            "smpKind": "programme",
+                            "type": "media"
+                        },
+                        "indexImage": {
+                            "id": "129856234",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/A901/production/_129856234_p0fq4rf7.png",
+                            "path": "/cpsprodpb/A901/production/_129856234_p0fq4rf7.png",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "bMX",
+                            "copyrightHolder": "BBC",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "London",
+                            "uri": "/news/england/london",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-london-65700678",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Amazing Japanese-inspired garden opens to public",
+                            "overtyped": "Trucker spends 10 years crafting Japanese garden"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-bristol-65651901",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:32e625ea-22cd-451a-8367-b52b2e176f00",
+                            "assetId": "65651901",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-bristol-65651901",
+                            "curie": "http://www.bbc.co.uk/asset/32e625ea-22cd-451a-8367-b52b2e176f00"
+                        },
+                        "summary": "Martin Fitton plans on opening his Bristol garden to the public to raise money for charity.",
+                        "timestamp": 1684905521000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "MAP",
+                        "media": {
+                            "id": "p0fp9mm5",
+                            "subType": "clip",
+                            "format": "video",
+                            "title": "Amazing Japanese-inspired garden opens to public",
+                            "synopses": {
+                                "short": "A Bristol trucker has spent years crafting the space behind his house in Brislington"
+                            },
+                            "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p0fpbcrd.jpg",
+                            "embedding": true,
+                            "advertising": true,
+                            "caption": "A Bristol trucker has spent years crafting the space behind his house in Brislington",
+                            "versions": [
+                                {
+                                    "versionId": "p0fp9mm9",
+                                    "types": [
+                                        "Original"
+                                    ],
+                                    "duration": 97,
+                                    "durationISO8601": "PT1M37S",
+                                    "warnings": {},
+                                    "availableTerritories": {
+                                        "uk": true,
+                                        "nonUk": true
+                                    },
+                                    "availableFrom": 1684509672000
+                                }
+                            ],
+                            "smpKind": "programme",
+                            "type": "media"
+                        },
+                        "indexImage": {
+                            "id": "129784242",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/5EB8/production/_129784242_p0fpbcrd.jpg",
+                            "path": "/cpsprodpb/5EB8/production/_129784242_p0fpbcrd.jpg",
+                            "height": 576,
+                            "width": 1024,
+                            "altText": "A garden with red and green plants that look oriental",
+                            "caption": "A Bristol man has spent over ten years creating a Japanese style garden",
+                            "copyrightHolder": "BBC",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Bristol",
+                            "uri": "/news/england/bristol",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-bristol-65651901",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "'Butterflies create this smile on a face'"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-hereford-worcester-65683198",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:bdf5b9ea-9dab-4790-b6e4-6e95c2d2fe3b",
+                            "assetId": "65683198",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-hereford-worcester-65683198",
+                            "curie": "http://www.bbc.co.uk/asset/bdf5b9ea-9dab-4790-b6e4-6e95c2d2fe3b"
+                        },
+                        "summary": "The Pearl-bordered Fritillary is being brought back to the Malvern Hills in a push for biodiversity.",
+                        "timestamp": 1684905765000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "MAP",
+                        "media": {
+                            "id": "p0fpwjkq",
+                            "subType": "clip",
+                            "format": "video",
+                            "title": "'Butterflies create this smile on a face'",
+                            "synopses": {
+                                "short": "Volunteers reintroduce rare butterfly to Malvern Hills",
+                                "long": "A species of butterfly that disappeared from the Malvern Hills 30 years ago has been reintroduced by a conservationist and his army of volunteers. \n\nMel Mason, from the West Midlands branch of Butterfly Conservation, has always been fascinated by the colourful creatures and has spent more than a decade protecting and restoring their habitat.\n\nHis latest project is the most ambitious yet as he looks to bring the Pearl-bordered Fritillary back to countryside on the borders of Worcestershire, Herefordshire and Gloucestershire.\n\nA film by Audrey Dias and John Bray",
+                                "medium": "The Pearl-bordered Fritillary is being brought back to the Malvern Hills in a push for biodiversity."
+                            },
+                            "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p0fpwwt1.jpg",
+                            "embedding": true,
+                            "advertising": true,
+                            "caption": "Pearl-bordered Fritillary butterflies back on the Malvern Hills",
+                            "versions": [
+                                {
+                                    "versionId": "p0fpwjkv",
+                                    "types": [
+                                        "Original"
+                                    ],
+                                    "duration": 129,
+                                    "durationISO8601": "PT2M9S",
+                                    "warnings": {},
+                                    "availableTerritories": {
+                                        "uk": true,
+                                        "nonUk": true
+                                    },
+                                    "availableFrom": 1684836647000
+                                }
+                            ],
+                            "imageCopyright": "BBC",
+                            "smpKind": "programme",
+                            "type": "media"
+                        },
+                        "indexImage": {
+                            "id": "129840418",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/13DFC/production/_129840418_p0fpwwt1.jpg",
+                            "path": "/cpsprodpb/13DFC/production/_129840418_p0fpwwt1.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "Pearl-bordered Fritillary butterflies",
+                            "copyrightHolder": "BBC",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Hereford & Worcester",
+                            "uri": "/news/england/hereford_and_worcester",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-hereford-worcester-65683198",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Watch: Timelapse shows ice hockey rink melt"
+                        },
+                        "locators": {
+                            "assetUri": "/news/uk-england-nottinghamshire-65690721",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:8bef0e5e-5c48-4e5b-9550-1918346fdeb8",
+                            "assetId": "65690721",
+                            "cpsUrn": "urn:bbc:content:assetUri:news/uk-england-nottinghamshire-65690721",
+                            "curie": "http://www.bbc.co.uk/asset/8bef0e5e-5c48-4e5b-9550-1918346fdeb8"
+                        },
+                        "summary": "The refrigeration system at the National Ice Centre in Nottingham was switched off to save energy.",
+                        "timestamp": 1684914203000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-news/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "MAP",
+                        "media": {
+                            "id": "p0fpyjks",
+                            "subType": "clip",
+                            "format": "video",
+                            "title": "Timelapse shows ice hockey rink melt",
+                            "synopses": {
+                                "short": "Timelapse shows ice hockey rink melt",
+                                "medium": "The refrigeration system at the National Ice Centre in Nottingham was switched off to save energy."
+                            },
+                            "imageUrl": "ichef.bbci.co.uk/images/ic/$recipe/p0fpzx7k.jpg",
+                            "embedding": true,
+                            "advertising": true,
+                            "caption": "Timelapse shows ice hockey rink melt",
+                            "versions": [
+                                {
+                                    "versionId": "p0fpyjkx",
+                                    "types": [
+                                        "Original"
+                                    ],
+                                    "duration": 27,
+                                    "durationISO8601": "PT27S",
+                                    "warnings": {},
+                                    "availableTerritories": {
+                                        "uk": true,
+                                        "nonUk": true
+                                    },
+                                    "availableFrom": 1684864877000
+                                }
+                            ],
+                            "imageCopyright": "BBC",
+                            "smpKind": "programme",
+                            "type": "media"
+                        },
+                        "indexImage": {
+                            "id": "129847118",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/13D16/production/_129847118_p0fpzx7k.jpg",
+                            "path": "/cpsprodpb/13D16/production/_129847118_p0fpzx7k.jpg",
+                            "height": 549,
+                            "width": 976,
+                            "altText": "The ice rink at the National Ice Centre in Nottingham",
+                            "copyrightHolder": "BBC",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Nottingham",
+                            "uri": "/news/england/nottingham",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:news/uk-england-nottinghamshire-65690721",
+                        "type": "cps"
+                    }
+                ],
+                "strapline": {
+                    "name": "Watch/Listen"
+                },
+                "semanticGroupName": "Watch/Listen"
+            },
+            {
+                "type": "responsive-cluster",
+                "title": "Spare 5",
+                "items": [
+                    {
+                        "headlines": {
+                            "headline": "Saracens and Sale make one change each for final"
+                        },
+                        "locators": {
+                            "assetUri": "/sport/rugby-union/65702333",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:a0bfc1a1-170f-47c9-9516-ed85e597811e",
+                            "assetId": "65702333",
+                            "cpsUrn": "urn:bbc:content:assetUri:sport/rugby-union/65702333",
+                            "curie": "http://www.bbc.co.uk/asset/a0bfc1a1-170f-47c9-9516-ed85e597811e"
+                        },
+                        "summary": "Saracens and Sale both make one change to their line-ups for Saturday's Premiership final at Twickenham (15:00 BST).",
+                        "timestamp": 1685100158000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-sport/News",
+                                "categoryName": "News"
+                            },
+                            "campaigns": [
+                                {
+                                    "campaignId": "5c459e3dbec574000fb655de",
+                                    "campaignName": "Sport - English Regions"
+                                }
+                            ],
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129876448",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/149F3/production/_129876448_bbc-sport-index-imagery-2-split-images-gradient-29423c65-cfa7-4833-a24b-fd371b00aa72.png",
+                            "path": "/cpsprodpb/149F3/production/_129876448_bbc-sport-index-imagery-2-split-images-gradient-29423c65-cfa7-4833-a24b-fd371b00aa72.png",
+                            "height": 1152,
+                            "width": 2048,
+                            "altText": "Owen Farrell and George Ford",
+                            "copyrightHolder": "Rex Features/Getty Images",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": false,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Rugby Union",
+                            "uri": "/sport/rugby-union",
+                            "type": "simple"
+                        },
+                        "includeComments": true,
+                        "site": {
+                            "subType": "site",
+                            "name": "BBC Sport",
+                            "uri": "/sport",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:sport/rugby-union/65702333",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Wigan hit with second four-point deduction by EFL"
+                        },
+                        "locators": {
+                            "assetUri": "/sport/football/65723359",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:14c0e6c7-80a3-41a4-b12e-9148b5db9e56",
+                            "assetId": "65723359",
+                            "cpsUrn": "urn:bbc:content:assetUri:sport/football/65723359",
+                            "curie": "http://www.bbc.co.uk/asset/14c0e6c7-80a3-41a4-b12e-9148b5db9e56"
+                        },
+                        "summary": "Wigan will start their League One campaign with an eight-point deduction after failing to meet an EFL funding deadline.",
+                        "timestamp": 1685102794000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-sport/News",
+                                "categoryName": "News"
+                            },
+                            "campaigns": [
+                                {
+                                    "campaignId": "5c459e3dbec574000fb655de",
+                                    "campaignName": "Sport - English Regions"
+                                }
+                            ],
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129877311",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/2C71/production/_129877311_gettyimages-1247253203-1.jpg",
+                            "path": "/cpsprodpb/2C71/production/_129877311_gettyimages-1247253203-1.jpg",
+                            "height": 1152,
+                            "width": 2048,
+                            "altText": "Wigan Athletic's DW Stadium",
+                            "copyrightHolder": "Getty Images",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Football",
+                            "uri": "/sport/football",
+                            "type": "simple"
+                        },
+                        "site": {
+                            "subType": "site",
+                            "name": "BBC Sport",
+                            "uri": "/sport",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:sport/football/65723359",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Man Utd belong in Champions League - Ten Hag"
+                        },
+                        "locators": {
+                            "assetUri": "/sport/football/65716645",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:6bfbd3c8-006f-4986-81fe-b3243d4474c1",
+                            "assetId": "65716645",
+                            "cpsUrn": "urn:bbc:content:assetUri:sport/football/65716645",
+                            "curie": "http://www.bbc.co.uk/asset/6bfbd3c8-006f-4986-81fe-b3243d4474c1"
+                        },
+                        "summary": "Man Utd boss Erik ten Hag believes his side 'belong in the Champions League' after they secured a top finish with a 4-1 win over Chelsea.",
+                        "timestamp": 1685056276000,
+                        "language": "en-gb",
+                        "byline": {
+                            "name": "By Simon Stone",
+                            "title": "BBC Sport",
+                            "persons": [
+                                {
+                                    "name": "Simon Stone",
+                                    "function": "BBC Sport"
+                                }
+                            ]
+                        },
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-sport/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129871810",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/0719/production/_129871810_gettyimages-1493279199.jpg",
+                            "path": "/cpsprodpb/0719/production/_129871810_gettyimages-1493279199.jpg",
+                            "height": 576,
+                            "width": 1024,
+                            "altText": "Man Utd manager Erik Ten Hag",
+                            "copyrightHolder": "Getty Images",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Football",
+                            "uri": "/sport/football",
+                            "type": "simple"
+                        },
+                        "includeComments": true,
+                        "site": {
+                            "subType": "site",
+                            "name": "BBC Sport",
+                            "uri": "/sport",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:sport/football/65716645",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "Salah 'devastated' at missing out on Champions League"
+                        },
+                        "locators": {
+                            "assetUri": "/sport/football/65716849",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:ec479403-373a-4ed3-a7fd-09fc5e10c30c",
+                            "assetId": "65716849",
+                            "cpsUrn": "urn:bbc:content:assetUri:sport/football/65716849",
+                            "curie": "http://www.bbc.co.uk/asset/ec479403-373a-4ed3-a7fd-09fc5e10c30c"
+                        },
+                        "summary": "Liverpool forward Mohamed Salah says he is \"devastated\" the club have missed out on a spot in next season's Champions League.",
+                        "timestamp": 1685093451000,
+                        "language": "en-gb",
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-sport/News",
+                                "categoryName": "News"
+                            },
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129872044",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/ABFB/production/_129872044_hi084412435.jpg",
+                            "path": "/cpsprodpb/ABFB/production/_129872044_hi084412435.jpg",
+                            "height": 1152,
+                            "width": 2048,
+                            "altText": "Liverpool forward Mohamed Salah",
+                            "copyrightHolder": "PA Media",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false,
+                            "hasShortForm": true
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Football",
+                            "uri": "/sport/football",
+                            "type": "simple"
+                        },
+                        "includeComments": true,
+                        "site": {
+                            "subType": "site",
+                            "name": "BBC Sport",
+                            "uri": "/sport",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:sport/football/65716849",
+                        "type": "cps"
+                    },
+                    {
+                        "headlines": {
+                            "headline": "'We were gone' - Luton's rise to play-off final"
+                        },
+                        "locators": {
+                            "assetUri": "/sport/football/65700092",
+                            "curieCpsUrn": "urn:bbc:cps:curie:asset:c3ce10b0-5053-4b2b-b859-4d81f8ffcb40",
+                            "assetId": "65700092",
+                            "cpsUrn": "urn:bbc:content:assetUri:sport/football/65700092",
+                            "curie": "http://www.bbc.co.uk/asset/c3ce10b0-5053-4b2b-b859-4d81f8ffcb40"
+                        },
+                        "summary": "Nine years after escaping non-league, Luton Town are 90 minutes from returning to the top flight.",
+                        "timestamp": 1685078381000,
+                        "language": "en-gb",
+                        "byline": {
+                            "name": "By Kris Holland",
+                            "title": "BBC Sport",
+                            "persons": [
+                                {
+                                    "name": "Kris Holland",
+                                    "function": "BBC News"
+                                }
+                            ]
+                        },
+                        "passport": {
+                            "category": {
+                                "categoryId": "http://www.bbc.co.uk/ontologies/applicationlogic-sport/News",
+                                "categoryName": "News"
+                            },
+                            "campaigns": [
+                                {
+                                    "campaignId": "5c459e3dbec574000fb655de",
+                                    "campaignName": "Sport - English Regions"
+                                }
+                            ],
+                            "taggings": []
+                        },
+                        "cpsType": "STY",
+                        "indexImage": {
+                            "id": "129868756",
+                            "subType": "index",
+                            "href": "http://c.files.bbci.co.uk/100FA/production/_129868756_sweet.jpg",
+                            "path": "/cpsprodpb/100FA/production/_129868756_sweet.jpg",
+                            "height": 576,
+                            "width": 1024,
+                            "altText": "Gary Sweet, Luton chief executive",
+                            "caption": "Luton Town chief executive Gary Sweet says Luton can serve as an inspiration to other clubs",
+                            "copyrightHolder": "BBC",
+                            "originCode": "cpsprodpb",
+                            "allowSyndication": true,
+                            "type": "image"
+                        },
+                        "options": {
+                            "isBreakingNews": false,
+                            "isFactCheck": false
+                        },
+                        "section": {
+                            "subType": "IDX",
+                            "name": "Football",
+                            "uri": "/sport/football",
+                            "type": "simple"
+                        },
+                        "site": {
+                            "subType": "site",
+                            "name": "BBC Sport",
+                            "uri": "/sport",
+                            "type": "simple"
+                        },
+                        "id": "urn:bbc:ares::asset:sport/football/65700092",
+                        "type": "cps"
+                    }
+                ],
+                "strapline": {
+                    "name": "Sport"
+                },
+                "semanticGroupName": "Spare 5"
+            }
+        ]
+    },
+    "promo": {
+        "subType": "IDX",
+        "name": "England",
+        "uri": "/news/england",
+        "id": "urn:bbc:ares::index:news/england/mobile/domestic",
+        "type": "simple"
+    },
+    "relatedContent": {
+        "section": {
+            "subType": "index",
+            "name": "England",
+            "uri": "/news/england",
+            "urlIdentifier": "/news/england",
+            "type": "simple"
+        },
+        "site": {
+            "subType": "site",
+            "name": "BBC News",
+            "uri": "/news",
+            "urlIdentifier": "/news",
+            "type": "simple"
+        },
+        "groups": []
+    }
+}
